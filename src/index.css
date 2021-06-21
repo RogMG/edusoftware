@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.background-image{
+  background-image: url("https://generacionxbox.com/wp-content/uploads/2018/12/paw-patrol-on-a-roll-analisis.jpg")
+}
+.background-image-post{
+  background-image: url("https://cdnb.20m.es/sites/55/2018/09/54D99241-5F5A-4161-A8F5-0588A0C2559F.jpeg")
+}
+.background-image-post-inside{
+  background-image: url("https://image.freepik.com/free-vector/font-design-word-math-is-fun-with-kids-sliding-rainbow_33070-4753.jpg");
+}
